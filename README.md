@@ -6,7 +6,7 @@
 
 ## 📖 Sobre o Projeto
 
-[cite_start]Este projeto foi desenvolvido como parte do desafio "Treinamento de Redes Neurais com Transfer Learning" [cite: 13] [cite_start]do bootcamp **Baires Dev - Machine Learning Training**[cite: 6]. O objetivo é aplicar os conceitos de Deep Learning para construir um modelo de classificação de imagens capaz de diferenciar entre fotos de cães e gatos.
+Este projeto foi desenvolvido como parte do desafio "Treinamento de Redes Neurais com Transfer Learning" do bootcamp **Baires Dev - Machine Learning Training**[cite: 6]. O objetivo é aplicar os conceitos de Deep Learning para construir um modelo de classificação de imagens capaz de diferenciar entre fotos de cães e gatos.
 
 A abordagem central utilizada foi o **Transfer Learning**, uma técnica poderosa que consiste em aproveitar o conhecimento de uma rede neural já pré-treinada em um grande dataset (como o ImageNet) e adaptá-la para uma nova tarefa específica.
 
@@ -25,6 +25,8 @@ O desenvolvimento do projeto seguiu um pipeline estruturado, comum em problemas 
 
 ### 1. Aquisição e Extração dos Dados
 O dataset utilizado foi o "Cats and Dogs" da Kaggle, disponibilizado pela Microsoft. O download e a extração dos arquivos foram feitos diretamente no ambiente do Google Colab.
+link de descrição dos dados usados : https://www.tensorflow.org/datasets/catalog/cats_vs_dogs?hl=pt-br 
+link de download dos dados (que estavam no tipo ZIP) : https://www.microsoft.com/en-us/download/details.aspx?id=54765
 
 ### 2. Pré-processamento e Estruturação de Dados
 Esta foi uma etapa crucial para garantir que o Keras pudesse ler os dados corretamente. O processo envolveu:
