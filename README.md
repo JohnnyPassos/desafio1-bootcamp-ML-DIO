@@ -6,7 +6,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte do desafio "Treinamento de Redes Neurais com Transfer Learning" do bootcamp **Baires Dev - Machine Learning Training**[cite: 6]. O objetivo é aplicar os conceitos de Deep Learning para construir um modelo de classificação de imagens capaz de diferenciar entre fotos de cães e gatos.
+Este projeto foi desenvolvido como parte do desafio "Treinamento de Redes Neurais com Transfer Learning" do bootcamp **Baires Dev - Machine Learning Training**. O objetivo é aplicar os conceitos de Deep Learning para construir um modelo de classificação de imagens capaz de diferenciar entre fotos de cães e gatos.
 
 A abordagem central utilizada foi o **Transfer Learning**, uma técnica poderosa que consiste em aproveitar o conhecimento de uma rede neural já pré-treinada em um grande dataset (como o ImageNet) e adaptá-la para uma nova tarefa específica.
 
