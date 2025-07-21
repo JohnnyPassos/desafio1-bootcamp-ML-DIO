@@ -48,7 +48,7 @@ A estratégia de Transfer Learning foi implementada da seguinte forma:
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone https://github.com/JohnnyPassos/desafio1-bootcamp-ML-DIO
     ```
 2.  Abra o arquivo `.ipynb` no Google Colab ou em um ambiente Jupyter com as dependências instaladas.
 3.  Certifique-se de que o ambiente de execução do Colab esteja configurado para usar **GPU** para um treinamento mais rápido.
